@@ -120,6 +120,16 @@
       "ext": "https://jihulab.com/xiaohao/tvbox/-/raw/main/libs/新片场.js"
     },
     {
+      "key": "py_cctv",
+      "name": "❤️┃央视┃大全",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/cctv.py"
+    },
+    {
       "key": "说明",
       "name": "客服微信 tvbox111",
       "type": 3,
