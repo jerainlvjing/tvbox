@@ -18,7 +18,7 @@
     },
     {
       "key": "csp_非凡资源",
-      "name": "🥗┃非凡┃资源",
+      "name": "📺┃非凡┃资源",
       "type": 1,
       "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
       "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
@@ -55,7 +55,7 @@
     },
     {
       "key": "量子资源",
-      "name": "🥑┃量子┃资源",
+      "name": "📺┃量子┃资源",
       "type": 1,
       "api": "http://cj.lziapi.com/api.php/provide/vod/",
       "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
@@ -81,7 +81,7 @@
     },
     {
       "key": "csp_XBPQ_圣城",
-      "name": "🏯┃圣城┃影视",
+      "name": "📺┃圣城┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -91,7 +91,7 @@
     },
     {
       "key": "csp_XBPQ_haoxi",
-      "name": "⚡️┃好戏┃影视",
+      "name": "📺┃好戏┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -101,7 +101,7 @@
     },
     {
       "key": "js_在线之家",
-      "name": "🏞︎‍┃超前┃影视",
+      "name": "📺┃超前┃影视",
       "type": 3,
       "api": "https://jihulab.com/xiaohao/tvbox/-/raw/main/libs/drpy2.min.js",
       "searchable": 1,
@@ -110,24 +110,24 @@
       "ext": "https://jihulab.com/xiaohao/tvbox/-/raw/main/libs/zxzj.js"
     },
     {
+      "key": "py_cctv",
+      "name": "📺┃央视┃大全",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://jihulab.com/xiaohao/tvbox/-/raw/main/libs/cctv.py"
+    },
+    {
       "key": "drpy_js_新片场",
-      "name": "新片 | 新片场",
+      "name": "📺┃新片场┃广告片",
       "type": 3,
       "api": "https://jihulab.com/xiaohao/tvbox/-/raw/main/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "ext": "https://jihulab.com/xiaohao/tvbox/-/raw/main/libs/新片场.js"
-    },
-    {
-      "key": "py_cctv",
-      "name": "❤️┃央视┃大全",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/cctv.py"
     },
     {
       "key": "说明",
