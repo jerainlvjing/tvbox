@@ -1,7 +1,17 @@
 {
   "spider": "https://jihulab.com/xiaohao/tvbox/-/raw/main/ali.jar",
-  "wallpaper": "https://bing.img.run/rand.php",
-  "warningText": "祝您观影愉快",
+  "lives": [
+    {
+      "name": "live",
+      "type": 0,
+      "url": "https://pastebin.com/raw/3ECDADVi",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ],
+  "wallpaper": "https://s1.imgrun.cn/2023/12/21/6583f516e1fb0.jpeg",
   "sites": [
     {
       "key": "csp_Wogg",
@@ -44,17 +54,6 @@
         ".*nivod.*",
         ".*ulivetv.*"
       ]
-    }
-  ],
-  "lives": [
-    {
-      "name": "live",
-      "type": 0,
-      "url": "https://pastebin.com/raw/3ECDADVi",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
   "parses": [
