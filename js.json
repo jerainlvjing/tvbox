@@ -1,5 +1,5 @@
 {
-  "spider": "https://jihulab.com/xiaohao/tvbox/-/raw/main/ali.jar",
+  "spider": "https://raw.fgit.cf/jerainlvjing/tvbox/main/ali.jar",
   "lives": [
     {
       "name": "live",
@@ -22,7 +22,7 @@
       "changeable": 0,
       "ext": {
         "token": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto",
-        "filter": "https://hub.fgit.cf/jerainlvjing/tvbox/raw/main/wogg.json"
+        "filter": "https://raw.fgit.cf/jerainlvjing/tvbox/main/wogg.json"
       }
      }
   ],
