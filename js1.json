@@ -110,26 +110,6 @@
       "ext": "https://jihulab.com/xiaohao/tvbox/-/raw/main/libs/zxzj.js"
     },
     {
-      "key": "py_cctv",
-      "name": "❤️┃央视频┃❤️",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://jihulab.com/xiaohao/tvbox/-/raw/main/libs/cctv.py"
-    },
-    {
-      "key": "drpy_js_新片场",
-      "name": "🆕┃新片场┃🆕",
-      "type": 3,
-      "api": "https://jihulab.com/xiaohao/tvbox/-/raw/main/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "https://jihulab.com/xiaohao/tvbox/-/raw/main/libs/新片场.js"
-    },
-    {
       "key": "说明",
       "name": "客服微信 tvbox111",
       "type": 3,
