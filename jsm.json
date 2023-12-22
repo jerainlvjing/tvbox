@@ -1,5 +1,5 @@
 {
-	"spider":"https://jihulab.com/xiaohao/tvbox/-/raw/main/pg.jar",
+	"spider":"./pg.jar",
 	"sites":[
 		{
 			"key": "酷狗",
