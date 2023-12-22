@@ -19,12 +19,12 @@
       "type": 3,
       "api": "csp_Wogg",
       "searchable": 1,
-      "changeable": 0,
+      "quickSearch":1,
+      "changeable":0,
       "ext": {
         "token": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
       },
-      "jar": "https://raw.fgit.cf/jerainlvjing/tvbox/main/ali.jar"
-    },
+    }，
     {
       "key": "csp_非凡资源",
       "name": "🚀┃非凡┃资源",
