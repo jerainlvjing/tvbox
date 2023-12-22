@@ -1,5 +1,5 @@
 {
-  "spider": "https://raw.fgit.cf/jerainlvjing/tvbox/main/pg.jar",
+  "spider": "./pg.jar",
   "lives": [
     {
       "name": "live",
