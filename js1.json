@@ -1,5 +1,5 @@
 {
-  "spider": "https://raw.fgit.cf/jerainlvjing/tvbox/main/custom_spider.jar",
+  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
   "lives": [
     {
       "name": "live",
@@ -21,7 +21,7 @@
       "searchable":1,
       "quickSearch":1,
       "changeable":0,
-      "ext":{"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd","filter":"https://raw.fgit.cf/jerainlvjing/tvbox/main/wogg.json"},
+      "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
     {
       "key": "csp_非凡资源",
